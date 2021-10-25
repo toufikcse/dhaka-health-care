@@ -1,0 +1,9 @@
+.card-style{
+    margin: 50px auto;
+    height: 50%;
+    width: 50%;
+}
+.card-style img{
+    height: 70%;
+    width: 70%;
+}

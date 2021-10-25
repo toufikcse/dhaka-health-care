@@ -1,0 +1,18 @@
+
+.logo-link{
+    display: flex;
+}
+.img-logo{
+    height: 50px;
+    width: 50px;
+    margin: 0px 20px 0px 40px;
+}
+.resize-item{
+    margin: 0 auto;
+
+}
+.name-u{
+    color: white;
+    margin: 0 10px;
+    font-size: 18px;
+}

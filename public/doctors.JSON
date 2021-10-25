@@ -1,0 +1,272 @@
+[
+    {
+        "id": "1",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/148-20190331174557.jpg",
+        "name": "PROF. DR. HAM NAZMUL AHSAN",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Thursday , Wednesday , Tuesday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "2",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2102-33580242.JPG",
+        "name": "PROF. DR. Q. TARIQUL ISLAM",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Thursday , Wednesday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "3",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/146-20190202171300.jpg",
+        "name": "PROF. DR. KHAN ABUL KALAM AZAD",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Thursday , Wednesday , Tuesday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "4",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2106-2141746290.JPG",
+        "name": "PROF. DR. TITU MIAH",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Thursday , Wednesday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "5",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/888-20191015170456.jpg",
+        "name": "PROF. DR. MD. AZIZUL HAQUE",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "6",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2110-566973826.jpg",
+        "name": "DR. AMIRUZZAMAN SUMON",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "7",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/716-20191015163000.jpg",
+        "name": "PROF. MD. MUJIBUR RAHMAN",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "8",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2246-729651529.jpg",
+        "name": "PROF.DR.SANKAR NARAYAN DAS",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "9",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/343-20201014173039.png",
+        "name": "PROF. DR. MD. ABUL KALAM AZAD",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "10",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/148-20190331174557.jpg",
+        "name": "PROF. DR. HAM NAZMUL AHSAN",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "11",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2102-33580242.JPG",
+        "name": "PROF. DR. Q. TARIQUL ISLAM",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "12",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/146-20190202171300.jpg",
+        "name": "PROF. DR. KHAN ABUL KALAM AZAD",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "13",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2106-2141746290.JPG",
+        "name": "PROF. DR. TITU MIAH",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "14",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/888-20191015170456.jpg",
+        "name": "PROF. DR. MD. AZIZUL HAQUE",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "15",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2110-566973826.jpg",
+        "name": "DR. AMIRUZZAMAN SUMON",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "16",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/716-20191015163000.jpg",
+        "name": "PROF. MD. MUJIBUR RAHMAN",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "17",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2246-729651529.jpg",
+        "name": "PROF.DR.SANKAR NARAYAN DAS",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "18",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/343-20201014173039.png",
+        "name": "PROF. DR. MD. ABUL KALAM AZAD",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "19",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/148-20190331174557.jpg",
+        "name": "PROF. DR. HAM NAZMUL AHSAN",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "20",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2102-33580242.JPG",
+        "name": "PROF. DR. Q. TARIQUL ISLAM",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "21",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/146-20190202171300.jpg",
+        "name": "PROF. DR. KHAN ABUL KALAM AZAD",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "22",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2106-2141746290.JPG",
+        "name": "PROF. DR. TITU MIAH",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "23",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/888-20191015170456.jpg",
+        "name": "PROF. DR. MD. AZIZUL HAQUE",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "24",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2110-566973826.jpg",
+        "name": "DR. AMIRUZZAMAN SUMON",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "25",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/716-20191015163000.jpg",
+        "name": "PROF. MD. MUJIBUR RAHMAN",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "26",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/2246-729651529.jpg",
+        "name": "PROF.DR.SANKAR NARAYAN DAS",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    },
+    {
+        "id": "27",
+        "img": "https://www.populardiagnostic.com/public/doctor-image-from-software/343-20201014173039.png",
+        "name": "PROF. DR. MD. ABUL KALAM AZAD",
+        "specialities": "Medicine",
+        "practice_day": "Saturday , Friday , Monday , Sunday",
+        "branch": "Dhanmondi",
+        "experiance": "MBBS, FCPS (Medicine), PhD(USA), Former Professor, Dhaka Medical College ,Dhaka",
+        "practice_branch": "Dhaka Health Care Ltd. (Dhanmondi Branch)"
+    }
+]
